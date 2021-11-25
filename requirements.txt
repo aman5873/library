@@ -1,0 +1,8 @@
+system Requirements
+
+password
+aman
+aman
+
+Django==2.2
+django-crispy-forms
